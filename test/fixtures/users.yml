@@ -1,4 +1,12 @@
 john:
    first_name: "John"
    last_name: "Doe"
-   profile_name: "johndoe@me.com"
+   email: "johndoe@me.com"
+   profile_name: "johndoe"
+
+
+tom:
+  first_name: "Tom"
+  last_name: "Smith"
+  email: "tommyboy@me.com"
+  profile_name: "Tomboy"

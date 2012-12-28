@@ -6,3 +6,7 @@ two:
   content: MyText
   user: john
 
+three:
+  content: "Hi I'm Tom"
+  user: tom
+
